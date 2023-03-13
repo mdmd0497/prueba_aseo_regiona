@@ -36,15 +36,17 @@ luego de esto nos ubicamos en la base de datos **empresa**
 ![Image text](https://github.com/mdmd0497/prueba_xolit/blob/master/importar-2.PNG)
 seguido de ello importamos la base de datos que se encuentra en la ruta
 ```
-C:\xampp\htdocs\prueba_xolit\persistence\empresa.sql
+C:\xampp\htdocs\prueba_xolit\persistence\prueba.sql
 ```
 con esto finalizamos la importación de la base de datos
 
 ## Correr el proyecto
 en un navegador escribir la siguiente URL
 ```
-http://localhost/prueba_xolit/
+http://localhost/prueba_aseo_regiona/
 ```
 
-el inicio le pedira un usuario y clave estas seran entregadas por el correo de la prueba
+el inicio le pedira un usuario y clave estas seran 
+usuario:admin@admin.co
+clave:123
 ![Image text](https://github.com/mdmd0497/prueba_xolit/blob/master/pagina-inicio.PNG)

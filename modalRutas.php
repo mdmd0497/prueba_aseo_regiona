@@ -1,8 +1,6 @@
 <?php
 require("business/Administrador.php");
-require("business/LogAdministrador.php");
 require("business/Rutas.php");
-require("business/LogClientes.php");
 require("business/Clientes.php");
 require_once("persistence/Connection.php");
 $idRutas = $_GET ['idRutas'];

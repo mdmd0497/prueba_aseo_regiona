@@ -47,6 +47,7 @@ http://localhost/prueba_aseo_regiona/
 ```
 
 el inicio le pedira un usuario y clave estas seran 
+
 usuario:admin@admin.co
 clave:123
-![Image text](https://github.com/mdmd0497/prueba_xolit/blob/master/pagina-inicio.PNG)
+![Image text](https://github.com/mdmd0497/prueba_aseo_regional/blob/master/app.PNG)

